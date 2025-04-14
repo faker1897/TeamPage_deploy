@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkteam_2_page=self.webpackChunkteam_2_page||[]).push([[8850],{5367:e=>{e.exports=JSON.parse('{"authors":[{"name":"YunsongYang","title":"Student","page":{"permalink":"/TeamPage_deploy/blog/authors/all-sebastien-lorber-articles"},"socials":{"github":"https://github.com/faker1897"},"key":"YunsongYang","count":1}]}')}}]);

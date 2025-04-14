@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>BlackHat/WhiteHat Blog</title>
-        <link>https://faker1897.github.io/build/index.html/blog</link>
+        <link>https://faker1897.github.io/TeamPage_deploy/blog</link>
         <description>BlackHat/WhiteHat Blog</description>
         <lastBuildDate>Sun, 13 Apr 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Long Blog Post]]></title>
-            <link>https://faker1897.github.io/build/index.html/blog/long-blog-post</link>
-            <guid>https://faker1897.github.io/build/index.html/blog/long-blog-post</guid>
+            <link>https://faker1897.github.io/TeamPage_deploy/blog/long-blog-post</link>
+            <guid>https://faker1897.github.io/TeamPage_deploy/blog/long-blog-post</guid>
             <pubDate>Sun, 13 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[First Meeting]]></description>
             <content:encoded><![CDATA[<p>First Meeting</p>]]></content:encoded>

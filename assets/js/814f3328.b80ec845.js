@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkteam_2_page=self.webpackChunkteam_2_page||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Long Blog Post","permalink":"/TeamPage_deploy/blog/long-blog-post","unlisted":false,"date":"2025-04-13T00:00:00.000Z"}]}')}}]);
